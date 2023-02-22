@@ -109,8 +109,8 @@ def menu_apikey():
 \033[92;1m>>   \033[1;37mOwner      :  SAHAN VAU
 \033[92;1m>>   \033[1;37mFacebook   :  Asraful Ahmed Sahan
 \033[92;1m>>   \033[1;37mGithub     :  SAHAN-404-KING
-\033[92;1m>>   \033[1;37mTool Type  :  \033[91;1mTRAIL
-\033[92;1m>>   \033[1;37mVersion    :  \033[91;1m2.0.0
+\033[92;1m>>   \033[1;37mTool Type  :  \033[91;1mPAID
+\033[92;1m>>   \033[1;37mVersion    :  \033[91;1m2.0.1
 \33[1;37m----------------------------------------------""")
   print(f"\t \033[1;32m  FIRST GET APPROVEL\033[1;37m ")
   print(f"")
@@ -160,7 +160,7 @@ logo=(f"""
 \033[92;1m>>   \033[1;37mOwner      :  SAHAN VAU
 \033[92;1m>>   \033[1;37mFacebook   :  Asraful Ahmed Sahan
 \033[92;1m>>   \033[1;37mGithub     :  SAHAN-404-CYBER
-\033[92;1m>>   \033[1;37mTool Type  :  \033[91;1mTRAIL
+\033[92;1m>>   \033[1;37mTool Type  :  \033[91;1mPAID
 \033[92;1m>>   \033[1;37mVersion    :  \033[91;1m2.0.1
 \33[1;37m----------------------------------------------""")
 
